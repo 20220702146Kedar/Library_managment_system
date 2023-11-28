@@ -10,4 +10,4 @@ This project provides a complete Library Managment system. It allows admin to ad
 
 
 
-This system is based on 45% on JavaScript, 38% on PHP, and 16% based on CSS and some percent of HTML. 
+This system is based on 45% on JavaScript, 38% on PHP, and 16% based on CSS and some percent of HTML. This system uses phpmyadmin for database related queries and works on Xampp local server.
